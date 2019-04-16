@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/safronoff2006/pkg2"
+	"github.com/safronoff2006/pkg3"
 )
 
 func main() {
@@ -12,5 +13,9 @@ func main() {
 
 	pkg2.Hi_std()
 	pkg2.Hi_kent()
+	pkg2.Hi_kent()
+
+	pkg3.V()
+	pkg3.Idi()
 
 }
